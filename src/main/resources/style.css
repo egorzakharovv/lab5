@@ -1,0 +1,15 @@
+.color {
+    color: #006400
+}
+
+.newcolor {
+    color: grey
+}
+
+.present {
+    font-weight: bold;
+}
+
+.absent {
+    font-style: italic;
+}
